@@ -1,5 +1,6 @@
-[LAB1.2] 2ª Entrega do Lab1
-ENUNCIADO
+# [LAB1.2] 2ª Entrega do Lab1
+
+## ENUNCIADO
 
 Esta atividade prática em grupo consiste na implementação de um projeto de visualização de dados de forma programática, em laboratório de informática. 
 
